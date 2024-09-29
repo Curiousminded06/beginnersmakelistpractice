@@ -59,4 +59,9 @@
 - [x] Make coffee.
 - [ ] Walk the dog.
 
+
+-[sahildale](https://github.com/Curiousminded06)
+-[x] woke up late 😢
+-[x]started open source for first time
+
 ### <-- Contributor END
